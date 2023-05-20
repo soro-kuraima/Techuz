@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kotlinlang-icon</title>
+    <defs>
+        <linearGradient x1="-16.8313338%" y1="91.9548342%" x2="76.2173606%" y2="-1.09386027%" id="linearGradient-1">
+            <stop stop-color="#C757BC" offset="10.8%"></stop>
+            <stop stop-color="#CD5CA9" offset="17.3%"></stop>
+            <stop stop-color="#E8744F" offset="49.2%"></stop>
+            <stop stop-color="#F88316" offset="71.6%"></stop>
+            <stop stop-color="#FF8900" offset="82.3%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.9219007%" y1="71.6737164%" x2="77.2759351%" y2="48.8953434%" id="linearGradient-2">
+            <stop stop-color="#00AFFF" offset="29.6%"></stop>
+            <stop stop-color="#5282FF" offset="69.4%"></stop>
+            <stop stop-color="#945DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.57716259%" y1="52.2843771%" x2="59.9257102%" y2="-8.00089146%" id="linearGradient-3">
+            <stop stop-color="#00AFFF" offset="29.6%"></stop>
+            <stop stop-color="#5282FF" offset="69.4%"></stop>
+            <stop stop-color="#945DFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kotlinlang-icon" transform="translate(0.000000, 0.592593)" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="23.7353079 0.282374898 -0.00331109744 25.2273828 -0.00331109744 47.5372371 23.6908328 23.7986181 47.2626699 0.271256107"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="-0.00331109744 47.5427965 23.6908328 23.8041775 47.2626699 47.5427965"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="-0.00331109744 0.282374898 23.7353079 0.282374898 -0.00331109744 25.2273828"></polygon>
+        </g>
+    </g>
+</svg>
